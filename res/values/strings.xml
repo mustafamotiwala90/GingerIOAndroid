@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_id">1484839425129840</string>
+    <string name="app_name">GingerAndroidTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="vendor_list_text">Vendor List : </string>
+    <string name="access_token">CAACEdEose0cBAJLa1TPPtJigLg4ZBVAouJpsnFfR6eu6StZBwmHy6tTC1IJdMF9oNBSkupWNdGFhmrTYe3TigH9gCs5Y71qNliC85QavlUmcYLIuWXBuIj3wQD3KaBBNZAzodtCiCkmbZCXUpPAywAHy8Hest9rLxRKk5GZCergTYk7Bl2U0qpQlChCArm2QvGKnsFBcQE0sO4v54mtDo</string>
+
+</resources>
